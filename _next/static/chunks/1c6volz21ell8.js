@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,88757,e=>{"use strict";var t=e.i(43476),o=e.i(81365);e.s(["BotaoPreferenciasCookies",0,function({className:e}){return(0,t.jsx)("button",{type:"button",onClick:()=>window.dispatchEvent(new Event(o.L)),className:e,children:"Preferências de cookies"})}])}]);

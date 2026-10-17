@@ -1,0 +1,8 @@
+:HL["/elisa-costa-previa/_next/static/chunks/0u-guht1gic6-.css","style"]
+:HL["/elisa-costa-previa/_next/static/chunks/3ux_1tghkfzhn.css","style"]
+:HL["/elisa-costa-previa/_next/static/media/figtree_latin_wght_normal-s.p.08sr_7r2rzxl4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/elisa-costa-previa/_next/static/media/newsreader_latin_opsz_italic-s.p.11ae33ayisz--.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/elisa-costa-previa/_next/static/media/newsreader_latin_opsz_normal-s.p.0dc79pquxokce.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"privacidade","h":96,"c":"$Q2"}]]
+0:{"b":"CjZP71E5Sx_H6iRbLvtDE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

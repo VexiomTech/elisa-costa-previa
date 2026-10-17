@@ -1,0 +1,5 @@
+# Cloudflare (Workers static assets): cabeçalhos por endereço. Não é publicado como arquivo.
+# Previews (<versão>-vexiom.<conta>.workers.dev) e o endereço técnico do worker não entram
+# no Google; o domínio oficial (vexiom.com.br) não casa com esta regra. Ver docs/google.md.
+https://:version.:subdomain.workers.dev/*
+  X-Robots-Tag: noindex

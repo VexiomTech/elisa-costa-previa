@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:"/elisa-costa-previa/_next/static/chunks/3ng1807c2jfms.js"
+3:"/elisa-costa-previa/_next/static/chunks/3mgbvadx_gg-q.js"
+4:I[81824,["$2","$3"],"Provedores"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+a:"/elisa-costa-previa/_next/static/chunks/1c6volz21ell8.js"
+b:"/elisa-costa-previa/_next/static/chunks/0p28p0u2ck7nr.js"
+c:I[49612,["$2","$3","$a","$b"],"Cabecalho"]
+d:I[39534,["$2","$3","$a","$b"],"Hero"]
+e:I[8488,["$2","$3","$a","$b"],"Apresentacao"]
+f:I[19801,["$2","$3","$a","$b"],"Processo"]
+10:I[96610,["$2","$3","$a","$b"],"Sessoes"]
+11:I[65943,["$2","$3","$a","$b"],"Busca"]
+12:I[22141,["$2","$3","$a","$b"],"Consultorio"]
+13:I[95553,["$2","$3","$a","$b"],"Perguntas"]
+14:I[74362,["$2","$3","$a","$b"],"Marcar"]
+1a:"ViewportBoundary"
+1b:I[97367,["$2","$3"],"$1a"]
+1c:"MetadataBoundary"
+1d:I[97367,["$2","$3"],"$1c"]
+1e:"$Sreact.suspense"
+:HL["/elisa-costa-previa/_next/static/chunks/0u-guht1gic6-.css","style"]
+:HL["/elisa-costa-previa/_next/static/chunks/3ux_1tghkfzhn.css","style"]
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$Lc",null,{"nome":"Elisa Costa · Psicóloga"}],["$","main",null,{"children":[["$","$Ld",null,{}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}]]}],["$","footer",null,{"data-escuro":"","className":"bg-escuro text-fundo","children":[["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col gap-6 px-4 py-10 text-sm text-escuro-suave sm:px-8 lg:flex-row lg:items-end lg:justify-between","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-lg text-fundo","children":"Elisa Costa · Psicóloga · CRP 04/82629"}],["$","p",null,{"className":"mt-1","children":["R. Dr. Silvestre Ferraz, 435"," · ","Centro",", ","Itajubá"," – ","MG"]}]]}],["$","nav",null,{"aria-label":"Contato e informações","className":"flex flex-wrap items-center gap-x-6","children":[["$","a",null,{"href":"https://wa.me/553591309717","target":"_blank","rel":"noopener noreferrer","className":"inline-flex min-h-11 items-center hover:text-fundo","children":"WhatsApp"}],["$","a",null,{"href":"https://www.instagram.com/elisacosta.psi/","target":"_blank","rel":"noopener noreferrer","className":"inline-flex min-h-11 items-center hover:text-fundo","children":"Instagram"}],["$","a",null,{"href":"mailto:psielisacosta@gmail.com","className":"inline-flex min-h-11 items-center hover:text-fundo","children":"E-mail"}],["$","a",null,{"href":"/elisa-costa-previa/privacidade","className":"inline-flex min-h-11 items-center hover:text-fundo","children":"Política de privacidade"}],false]}]]}],["$","div",null,{"className":"mx-auto max-w-6xl px-4 pb-6 sm:px-8","children":["$","div",null,{"className":"border-t border-fundo/10 pt-3","children":["$","a",null,{"href":"https://vexiom.com.br","target":"_blank","rel":"noopener noreferrer","aria-label":"Desenvolvido por Vexiom (abre o site da Vexiom em outra aba)","className":"inline-flex min-h-11 items-center gap-3 text-xs text-escuro-suave transition-colors duration-200 hover:text-fundo","children":[["$","span",null,{"aria-hidden":"true","children":["Desenvolvido por ",["$","span",null,{"className":"sm:hidden","children":"Vexiom"}]]}],"$L15"]}]}]}]]}]],["$L16","$L17"],"$L18"]}],"p":"$@19","v":null,"s":"$8"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/elisa-costa-previa/_next/static/chunks/0u-guht1gic6-.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/elisa-costa-previa/_next/static/chunks/3ux_1tghkfzhn.css","precedence":"next"}],["$","script","script-0",{"src":"/elisa-costa-previa/_next/static/chunks/3ng1807c2jfms.js","async":true}],["$","script","script-1",{"src":"/elisa-costa-previa/_next/static/chunks/3mgbvadx_gg-q.js","async":true}]],["$","html",null,{"lang":"pt-BR","className":"nt-5Ia_variable MtXzlW_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.documentElement.classList.add('js');setTimeout(function(){if(!window.__sitePronto)document.documentElement.classList.remove('js')},4000)"}}]}],["$","body",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Elisa Costa · Psicóloga"}],["$","meta","1",{"name":"description","content":"Psicóloga em Itajubá (MG) e online. Abordagem Centrada na Pessoa, para adolescentes, jovens e adultos."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://exemplo.com.br"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$8"}},"a":"$@20","u":"$@21","b":"CjZP71E5Sx_H6iRbLvtDE"}
+22:I[97367,["$2","$3"],"OutletBoundary"]
+15:["$","img",null,{"aria-hidden":"true","src":"/elisa-costa-previa/marca/vexiom-horizontal.svg","alt":"","width":930,"height":181,"loading":"lazy","className":"hidden h-5 w-auto sm:block"}]
+16:["$","script","script-0",{"src":"/elisa-costa-previa/_next/static/chunks/1c6volz21ell8.js","async":true}]
+17:["$","script","script-1",{"src":"/elisa-costa-previa/_next/static/chunks/0p28p0u2ck7nr.js","async":true}]
+18:["$","$L22",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+8:300
+23:null
+21:true
+8:C
+20:0
+7:"$undefined"
+1f:"$undefined"
+19:"$undefined"
